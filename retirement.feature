@@ -26,7 +26,9 @@ Feature: Full Retirement Calculator
 
     Examples: Years, Months, Retire Age, Additional Months, Retire Month, and Retire Year
       | year | month | retireAge | addMonths | retireMonth | retireYear |
-      | 1954 | 9     | 66        | 0        | September   | 2020       |
-      | 1959 | 6     | 10        | 10       | April       | 2026       |
-      | 1955 | 7     | 2         | 2        | September   | 2021       |
-      | 1937 | 5     | 65        | 0        | May         | 2002       |
+      | 1941   | 4   | 65          | 8         |December       | 2006     |
+      | 1943   | 6   | 66          | 0         | June           | 2009     |
+      | 1957   | 7   | 66          | 6         | January         | 2024     |
+      | 1960   | 2   | 67          | 0         | February        | 2027     |
+       | 2004   | 9  | 67          | 0         |September       | 2071     |
+
